@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Benedict Florance Arockiaraj</title>
+    <title>Publications | Akashprabu A C</title>
     <link>https://benedictflorance.github.io/publication/</link>
       <atom:link href="https://benedictflorance.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Linguistic Properties of Truthful Responses</title>
+      <title>Enhancing Heart Disease Prediction Through KBEST-PCA Fusion Feature Selection and Ensemble Modeling With Gaussian Naive Bayes Boosting</title>
       <link>https://benedictflorance.github.io/publication/conference-paper/</link>
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
       <guid>https://benedictflorance.github.io/publication/conference-paper/</guid>
