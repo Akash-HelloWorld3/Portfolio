@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Benedict Florance Arockiaraj</title>
-    <link>https://benedictflorance.github.io/project/</link>
-      <atom:link href="https://benedictflorance.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <title>Projects | Akashprabu A C</title>
+    <link>https://akashprabu.netlify.app/project/</link>
+      <atom:link href="https://akashprabu.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://benedictflorance.github.io/media/icon_hu9eeb12546e8517e7f9c186d851ae3ad9_1969_512x512_fill_lanczos_center_3.png</url>
+      <url>https://akashprabu.netlify.app/media/icon_hu9eeb12546e8517e7f9c186d851ae3ad9_1969_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://benedictflorance.github.io/project/</link>
+      <link>https://akashprabu.netlify.app/project/</link>
     </image>
     
     <item>
-      <title>Holi Search Engine</title>
-      <link>https://benedictflorance.github.io/project/holi/</link>
-      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://benedictflorance.github.io/project/holi/</guid>
+      <title>Washbot</title>
+      <link>https://akashprabu.netlify.app/project/washbot/</link>
+      <pubDate>Mon, 20 June 2020 00:00:00 +0000</pubDate>
+      <guid>https://akashprabu.netlify.app/project/washbot/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Search Engine was built using four key components: crawler, indexer and data processor, ranker and frontend.&lt;/li&gt;
 &lt;li&gt;A corpus of 500k URLs were crawled and efficiently indexed. Sound ranking algorithms were used to rank results with a minimalistic UI to demonstrate the search engine.&lt;/li&gt;
