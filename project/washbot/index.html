@@ -307,8 +307,8 @@
   <meta property="og:site_name" content="Akashprabu A C" />
   <meta property="og:url" content="https://akashprabu.netlify.app/project/washbot/" />
   <meta property="og:title" content="Washbot | Akashprabu A C" />
-  <meta property="og:description" content="A Fully Automated Smart Handwash Monitoring Device." /><meta property="og:image" content="https://akashprabu.netlify.app/project/washbot/featured.png" />
-    <meta property="twitter:image" content="https://akashprabu.netlify.app/project/washbot/featured.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:description" content="A Fully Automated Smart Handwash Monitoring Device." /><meta property="og:image" content="https://akashprabu.netlify.app/project/washbot/washbot_poster.png" />
+    <meta property="twitter:image" content="https://akashprabu.netlify.app/project/washbot/washbot_poster.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
@@ -343,7 +343,7 @@
   "headline": "Washbot",
   
   "image": [
-    "https://akashprabu.netlify.app/project/washbot/featured.png"
+    "https://akashprabu.netlify.app/project/washbot/washbot_posters.png"
   ],
   
   "datePublished": "2023-05-01T00:00:00Z",
@@ -714,9 +714,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 583px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 400px; max-height: 900px;">
   <div style="position: relative">
-    <img src="/project/washbot/featured_hu53cf662d4ad852a693b0426b711dd910_839767_720x2500_fit_q75_h2_lanczos_3.webp" width="720" height="583" alt="" class="featured-image">
+    <img src="/project/washbot/washbot_poster.png" width="300" height="300" alt="" class="featured-image">
     <span class="article-header-caption">Washbot</span>
   </div>
 </div>
@@ -727,8 +727,12 @@
 
     <div class="article-style">
       <ul>
-<li>Search Engine was built using four key components: crawler, indexer and data processor, ranker and frontend.</li>
-<li>A corpus of 500k URLs were crawled and efficiently indexed. Sound ranking algorithms were used to rank results with a minimalistic UI to demonstrate the search engine.</li>
+        <li>Washbot is a hand-washing monitoring device that allows the user to maintain their hand hygiene and record data about it. The device’s functions are fully automated and hence can be maintained at low cost. </li>
+        <li>The device comprises components as ultrasonic sensor, solenoid valve, 7-inch lcd screen, camera with infrared sensor, actuators for dispensing hand-wash solution, which all are controlled by microprocessor placed in the device. 
+            The functions of the device are Automated faucet control, Analysis of hand-washing procedure and uploading data to server. </li>
+        <li>The user reaches the device and places his/her hands under the device. As the ultrasonic sensor is triggered, a sequential procedure of events begins. At first, the faucet is controlled and water is dispensed for the user to rinse their hands, after which the hand-wash solution is dispensed and the camera starts capturing the hand-wash procedure done by the user. The live feed is sent to the server from the device where it is analysed using a machine learning model.</li>
+        <li>The model is designed under the hand-washing standards that are set by WHO, as of which five basic steps are selected and data of those steps are used to train the model. This model is built on the VGG-19 model framework with 16 layers of CNNs and two fully connected layers, concluded with a softmax layer. The five basic hand-washing steps are labelled as classes for the model to predict the steps done by the user in live feed. After analysing the live feed, the recognised steps are marked as done in the database and remaining steps that are neither recognised nor done by the user are marked as not done in the database. Once the user completes washing his/her hands, water is dispensed for the user to rinse their hands and the record of hand-washing data will be displayed on the LCD screen.</li>
+        <li>This device is developed with the intent of maintaining hand hygiene and prevention of contagious diseases in a public institution like hospital, where interaction between people is very high. As for the hospital; the doctors, nurses and patient attenders are the disease transmitters as they interact with patients much often. To control such a disaster, this device will be helpful as they can wash their hands and the user is assisted by the database which allows them to correct the way they wash their hands. </li>
 </ul>
 
     </div>
