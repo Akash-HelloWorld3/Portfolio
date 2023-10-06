@@ -26,9 +26,9 @@
     
     <item>
       <title>PennCloud</title>
-      <link>https://benedictflorance.github.io/project/penn_cloud/</link>
+      <link>https://benedictflorance.github.io/project/srts/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://benedictflorance.github.io/project/penn_cloud/</guid>
+      <guid>https://benedictflorance.github.io/project/srts/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Presented an excellent fault-tolerant PennCloud platform that supports a complete set of services with an intuitive user interface, including e.g., a webmail service for both local and remote users, a storage service for uploading and downloading of large files in any format, and an admin console for viewing and easy controlling of frontend and backend nodes&amp;rsquo; status and data.&lt;/li&gt;
 &lt;li&gt;Foundational to these services, the platform also features a solid, scalable system design with strong consistency, efficient fault detection and recovery, fast performance and great usability.&lt;/li&gt;
