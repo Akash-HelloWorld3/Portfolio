@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ML | Akashprabu A C</title>
-    <link>https://benedictflorance.github.io/tag/ml/</link>
-      <atom:link href="https://benedictflorance.github.io/tag/ml/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://akashprabu.netlify.app/tag/ml/</link>
+      <atom:link href="https://akashprabu.netlify.app/tag/ml/index.xml" rel="self" type="application/rss+xml" />
     <description>ML</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://benedictflorance.github.io/media/icon_hu9eeb12546e8517e7f9c186d851ae3ad9_1969_512x512_fill_lanczos_center_3.png</url>
+      <url>https://akashprabu.netlify.app/media/icon_hu9eeb12546e8517e7f9c186d851ae3ad9_1969_512x512_fill_lanczos_center_3.png</url>
       <title>ML</title>
-      <link>https://benedictflorance.github.io/tag/ml/</link>
+      <link>https://akashprabu.netlify.app/tag/ml/</link>
     </image>
     
     <item>
       <title>Transfer Learning for Car-Racing Environments</title>
-      <link>https://benedictflorance.github.io/project/transfer_rl/</link>
+      <link>https://akashprabu.netlify.app/project/transfer_rl/</link>
       <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://benedictflorance.github.io/project/transfer_rl/</guid>
+      <guid>https://akashprabu.netlify.app/project/transfer_rl/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Used transfer learning to achieve the fast lap times in OpenAI’s Car racing environment by training the agent on one circuit, and racing it on other
 customized target environments by zero-shot transfer or by additional fine-tuning.&lt;/li&gt;
@@ -31,9 +31,9 @@ performance on the target domain, but also shows high performance ability during
     
     <item>
       <title>Counting Machine Washer Parts</title>
-      <link>https://benedictflorance.github.io/project/counting_parts/</link>
+      <link>https://akashprabu.netlify.app/project/counting_parts/</link>
       <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://benedictflorance.github.io/project/counting_parts/</guid>
+      <guid>https://akashprabu.netlify.app/project/counting_parts/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Extended density-map estimation based FamNet to count highly-occluded machine parts with a novel mismatch loss
 component, achieving a performance of 1.96 MAE (90% decrease from image processing baseline) on the challenge dataset.&lt;/li&gt;
@@ -43,9 +43,9 @@ component, achieving a performance of 1.96 MAE (90% decrease from image processi
     
     <item>
       <title>Ensemble-based Endoscopy Artefact Detection</title>
-      <link>https://benedictflorance.github.io/project/nitt/</link>
+      <link>https://akashprabu.netlify.app/project/nitt/</link>
       <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://benedictflorance.github.io/project/nitt/</guid>
+      <guid>https://akashprabu.netlify.app/project/nitt/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Proposed an ensemble of RetinaNet-based object detectors to localize bounding boxes and predict labels of eight different artefact classes that generalizes to an inter-patient, multi-tissue and a multi-modal corpus of endoscopy video frame data&lt;/p&gt;
@@ -65,9 +65,9 @@ component, achieving a performance of 1.96 MAE (90% decrease from image processi
     
     <item>
       <title>Highlights Generation for Cricket Videos</title>
-      <link>https://benedictflorance.github.io/project/cricket/</link>
+      <link>https://akashprabu.netlify.app/project/cricket/</link>
       <pubDate>Thu, 30 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://benedictflorance.github.io/project/cricket/</guid>
+      <guid>https://akashprabu.netlify.app/project/cricket/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Employed video frame segmentation, replay and scoreboard detection on a newly constructed dataset of IPL cricket videos.&lt;/p&gt;
@@ -81,9 +81,9 @@ component, achieving a performance of 1.96 MAE (90% decrease from image processi
     
     <item>
       <title>Indian Flora Project</title>
-      <link>https://benedictflorance.github.io/project/iiith/</link>
+      <link>https://akashprabu.netlify.app/project/iiith/</link>
       <pubDate>Mon, 30 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://benedictflorance.github.io/project/iiith/</guid>
+      <guid>https://akashprabu.netlify.app/project/iiith/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Performed transfer learning on various CNN models using our new Indic-Leaf dataset of 112 Indian plants for identification and disease detection with results showing Top-1 and Top-5 precision of 90.08 and 96.90&lt;/p&gt;
